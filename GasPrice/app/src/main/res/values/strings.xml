@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">GasPrice</string>
+
+    <string-array name="Region">
+        <item>Винницкая</item>
+        <item>Волынская</item>
+        <item>Днепропетровская</item>
+        <item>Донецкая</item>
+        <item>Житомирская</item>
+        <item>Закарпатская</item>
+        <item>Киевская</item>
+        <item>Луганская</item>
+        <item>Львовская</item>
+        <item>Николаевская</item>
+        <item>Одесская</item>
+        <item>Полтавская</item>
+        <item>Ровенская</item>
+        <item>Сумская</item>
+        <item>Тернопольская</item>
+        <item>Харьковская</item>
+        <item>Херсонская</item>
+        <item>Хмельницкая</item>
+        <item>Черкасская</item>
+        <item>Черниговская</item>
+        <item>Черновицкая</item>
+    </string-array>
+
+</resources>
